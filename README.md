@@ -1,6 +1,6 @@
 # Using Vultr as a provider of Vagrant
 ## Try it
-### Create server
+### Create a server
 ```
 $ VULTR_API_KEY=FILLME vagrant up --provider=vultr
 ```
