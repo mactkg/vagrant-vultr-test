@@ -10,5 +10,9 @@ $ VULTR_API_KEY=FILLME vagrant up --provider=vultr
 $ vagrant destroy
 ```
 
+## tasks
+- [ ] Fix #1
+- [ ] Ansible provisioning
+
 ## Refs
 - https://www.vultr.com/docs/using-vultr-as-your-vagrant-provider
